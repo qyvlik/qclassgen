@@ -9,3 +9,5 @@
     ```
     qclassgen.py YOURCLASS.h build/YOURCLASS.gen build/YOURCLASS.cpp
     ```
+
+    > **注意**：`qclassgen.py` 的参数列表，第一个为要头文件，第二为中间文件，第三个为实现文件。
